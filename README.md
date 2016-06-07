@@ -1,0 +1,2 @@
+# blogJS
+javaScript for blog
